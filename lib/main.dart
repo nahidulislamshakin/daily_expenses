@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:daily_expenses/daily_expenses.dart';
+import 'package:daily_expenses/my_app.dart';
 
-void main() {
-  runApp(daily_expenses());
-}
+void main() => runApp(myApp());
